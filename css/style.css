@@ -1,0 +1,28 @@
+ 
+#activateTask h3{
+        color:green ; 
+}
+
+#pendingTask h3{
+     color: red;
+}
+ 
+#addTask h3{
+    color:blueviolet;
+    
+}
+#invalidText{
+    color:red;
+}
+
+.TaskAssignFont{
+    
+    font-size:20px;
+    padding-left:20px;
+    color:darkred;
+}
+
+.btnPosition{
+    float:right;
+    
+}
